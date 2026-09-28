@@ -43,6 +43,21 @@ The project includes:
 - Top 10 countries by COVID-19 death rate
 
 
-├── covid_project.ipynb
-├── covid_cleaned_data.csv
-└── README.md
+## 📚 Data Source
+
+Data Source: Worldometer Coronavirus Tracker
+
+The dataset represents historical COVID-19 data available from the source.
+
+
+## 🎯 Learning Outcomes
+
+Through this project, I practiced:
+
+Web scraping with BeautifulSoup
+Data manipulation with Pandas
+Numerical operations with NumPy
+Data visualization with Matplotlib
+Statistical visualization with Seaborn
+Working with Jupyter Notebook
+Exporting cleaned data to CSV
